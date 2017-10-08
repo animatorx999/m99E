@@ -1,0 +1,8 @@
+{
+  "name": "hello",
+  "ios_identifier": "S6NF73RL93",
+  "android_identifier": "",
+  "update": "now",
+  "content_url": "http://192.168.0.37/game/hello/",
+  "release": "2017.10.08-17.28.42"
+}
