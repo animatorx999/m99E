@@ -1,4 +1,4 @@
-M99 Entertainment is my take on the game "2048". The is a single-player sliding block puzzle game by Italian web developer Gabriele Cirulli.
+Maxim99 (M99) 2048 is my take on the game "2048". The is a single-player sliding block puzzle game by Italian web developer Gabriele Cirulli.
 
 The game's objective is to slide numbered tiles on a grid to combine them to create a tile with the number 2048.
 
